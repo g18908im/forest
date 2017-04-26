@@ -37,7 +37,7 @@ package com.toy.anagrams.lib;
 final class StaticWordLibrary extends WordLibrary {
 
     private static final String[] WORD_LIST = {
-        "apple",//変更
+        "ant",//変更
         "ambiguous",
         "arithmetic",
         "backslash",
@@ -74,6 +74,7 @@ final class StaticWordLibrary extends WordLibrary {
         "simultaneously",
         "specification",
         "structure",
+        "swift",//追加
         "lexical",
         "likewise",
         "management",
