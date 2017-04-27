@@ -55,6 +55,7 @@ final class StaticWordLibrary extends WordLibrary {
         "expression",
         "facilitate",
         "fragment",
+        "grape",//追加
         "hexadecimal",
         "implementation",
         "indistinguishable",
