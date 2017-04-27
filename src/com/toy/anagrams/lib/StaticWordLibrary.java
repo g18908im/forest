@@ -70,6 +70,7 @@ final class StaticWordLibrary extends WordLibrary {
         "patrick",
         "pickle",
         "polymorphic",
+        "quiz",//追加
         "rigorously",
         "simultaneously",
         "specification",
